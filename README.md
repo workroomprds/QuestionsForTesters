@@ -1,4 +1,4 @@
-# SussedTesting
+# Questions for Testers
 questions for a pack of "sussed" cards for the CollabLab
 
 Not a multiple choice – each are plausible alternatives
