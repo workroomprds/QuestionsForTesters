@@ -1,8 +1,7 @@
 # Questions for Testers
 Questions for a pack of cards for the CollabLab – following the "sussed" game format.
 
-Not a multiple choice – each are plausible alternatives
-We need 4Qs per card, with 3 answers each.
+Not a multiple choice – each are plausible alternatives.
 
 # Inspirations
 ## testing
