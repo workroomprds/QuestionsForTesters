@@ -1,4 +1,4 @@
-# Questions (27 total)
+# Questions (27x4 total)
 
 ## My partner’s email is no longer sending. I’m most likely to…
 * Send a test mail
@@ -274,9 +274,9 @@
 * Talk more persuasively with my coders
 * Talk more accurately with my team
 
-## I decide I’m working for an arsehole. I…
+## I find that I don't like someone I’m working with. I…
 * Change my job
-* Change my boss
+* Change the person
 * Change my attitude
 
 ## Testers?
@@ -511,10 +511,10 @@
 * Data designed to exercise edge cases, unchanged for three years
 * Minimal data, cleared down for each test
 
-## The collective noun for testers could be…
-* An embuggerance of testers
-* A smörgasbord of testers
-* A troupe of testers
+## A group of testers is most often like…
+* A constellation
+* A fog
+* A line
 
 ## My organisation has helped me to
 * Get to know the customers
