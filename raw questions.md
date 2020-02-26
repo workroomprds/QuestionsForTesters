@@ -491,7 +491,7 @@
 
 ## I’d rather be…
 * The only tester on a team using BDD to build a medical records system
-* One of three testers on an team delivering in-house accounting software
+* One of three testers on a team delivering in-house accounting software
 * One of a warehouse of testers hammering a blockbuster online game
 
 ## I’d like to swap places with a tester
